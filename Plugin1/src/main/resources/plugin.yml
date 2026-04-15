@@ -1,0 +1,4 @@
+name: MeinPlugin
+version: 1.0
+main: dev.felix.MainPlugin
+api-version: 1.12
